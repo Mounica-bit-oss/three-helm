@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mounica:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-26T13:17:26.206858739Z"
+    description: A Helm chart for Kubernetes
+    digest: 1273c4f6d302e1899c4f6605080d9198200bfa96af3e9a2d2e8b595d7fcac845
+    name: mounica
+    type: application
+    urls:
+    - mounica-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-26T13:17:26.206399672Z"
